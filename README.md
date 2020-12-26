@@ -17,5 +17,18 @@ Packages:
 
 ## Projects
 Car Price Predictor
+
 Breast Cancer Diagnosis 
+
 Yelp Review Sentiment Analysis
+
+Blackjack
+
+### Natural Language Processing
+- Tokenization
+- One-Hot Vectors
+- Bag of Words
+
+### Reinforcement Learning
+- Q-learning
+- Greedy Algorithm
