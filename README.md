@@ -24,6 +24,10 @@ Yelp Review Sentiment Analysis
 
 Blackjack
 
+Image Recognition & Object Detection
+
+Face generation
+
 ### Natural Language Processing
 - Tokenization
 - One-Hot Vectors
@@ -32,3 +36,12 @@ Blackjack
 ### Reinforcement Learning
 - Q-learning
 - Greedy Algorithm
+
+### Neural Networks
+- K-nearest neighbors 
+- CNN
+- Alex Net
+
+### Generative Adversarial Networks
+We created a network architecture to produce artificially generated face images using the dataset Labeled Faces in the Wild. The data preprocessing just involves downsizing the images to 28 x 28 pixels. We ran two ML algorithms: the generator which produces the fake images and the discriminator which tries to guess whether the image is real or fake. Each algorithm is given a reward function and over several cycles, the generator will get better and producing fake images that are indistinguishable to the discriminator. 
+
